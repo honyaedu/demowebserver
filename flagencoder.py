@@ -155,5 +155,5 @@ def flagencode(from_code,key):
     return key_code
  
 if __name__  == '__main__':
-    print flagencode('','想要密钥吗,从我身上寻找吧.')
+    print flagencode('Final Flag Here','想要密钥吗,从我身上寻找吧.')
     #cc6a91fc5d2516ff5a1da84b59a22462fa9185ea6871cf0c82f26332539f46507b4ca459cbbfba25
